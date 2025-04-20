@@ -18,7 +18,7 @@ A simple, captivating and engaging Christian Bible trivia game built with React 
 
 1. **Install dependencies:**
    ```bash
-   git clone https://github.com/ekaone/simple-bible-quiz.git
+   git clone https://github.com/ekaone/bible-quiz.git
    
    pnpm install
    ```
