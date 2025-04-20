@@ -111,7 +111,7 @@ export default function App() {
             ) : (
               <div style={{ color: "#43c46b", fontWeight: 600, marginBottom: 12 }}>Score Saved!</div>
             )}
-            <button className="option-btn" onClick={handleRestart} style={{ marginTop: 10 }}>
+            <button className="option-btn" onClick={handleRestart} style={{ marginTop: 10, color: '#1f2937' }}>
               Play Again
             </button>
           </div>
