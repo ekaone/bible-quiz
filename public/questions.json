@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who was thrown into the lion's den?",
+    "options": ["Daniel", "David", "Moses", "Elijah"],
+    "answer": "Daniel",
+    "category": "Old Testament"
+  },
+  {
+    "question": "What is the first book of the New Testament?",
+    "options": ["Matthew", "Mark", "Luke", "John"],
+    "answer": "Matthew",
+    "category": "New Testament"
+  },
+  {
+    "question": "How many days and nights did it rain during the flood?",
+    "options": ["40", "7", "12", "100"],
+    "answer": "40",
+    "category": "Old Testament"
+  },
+  {
+    "question": "Who betrayed Jesus with a kiss?",
+    "options": ["Judas", "Peter", "John", "Thomas"],
+    "answer": "Judas",
+    "category": "New Testament"
+  },
+  {
+    "question": "What did God create on the first day?",
+    "options": ["Light", "Animals", "Plants", "Man"],
+    "answer": "Light",
+    "category": "Genesis"
+  }
+]
